@@ -1,53 +1,47 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=700&size=30&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Hi+There!+👋+I'm+Your+Name;+Welcome+to+My+Universe!;+Let's+Build+Something+Awesome!" alt="Typing SVG" />
-</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_KAMU&color=blueviolet&style=flat-square&label=Profile+Visits" alt="Visitor Count" />
-</p>
+  <!-- Bagian Header Utama (Gaya Sci-Fi / Glowing Title) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=4000&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=NAMA+KAMU+DISINI;+HARDWARE+%E2%80%A2+SOFTWARE+%E2%80%A2+DEVELOPER;+WELCOME+TO+MY+UPLINK!" alt="Typing SVG" />
+
+  <p><code>STATUS: READY FOR NEW MISSIONS // OPEN TO WORK</code></p>
+
+</div>
 
 ---
 
-### 💻 About Me
+### 🛡️ ARSENAL: HARDWARE & EMBEDDED
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,git,github,vscode,linux" />
+</div>
+
+### ⚡ SOFTWARE & AI
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,docker,postman" />
+</div>
+
+---
+
+<div align="center">
+
+### 🛰️ CONNECT WITH ME
 <table align="center">
   <tr>
-    <td width="50%">
-      🔭 I'm currently working on <b>Exciting Web Projects</b><br>
-      🌱 Exploring advanced <b>Frontend & Backend Architecture</b><br>
-      💬 Ask me about <b>JavaScript, React, and Node.js</b><br>
-      📫 Reach me via <a href="mailto:emailmu@example.com">Email</a> or <a href="https://linkedin.com/in/username">LinkedIn</a>
+    <td align="center">
+      <a href="https://linkedin.com/in/USERNAME-KAMU">
+        <img src="https://img.shields.io/badge/LINKEDIN-CONNECTED-orange?style=for-the-badge&logo=linkedin&logoColor=orange&color=111" alt="LinkedIn" />
+      </a>
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_KAMU&theme=tokyonight&hide_border=true&round_corners=true" alt="Streak Stats" />
+    <td align="center">
+      <a href="https://t.me/USERNAME-KAMU">
+        <img src="https://img.shields.io/badge/TELEGRAM-CONNECTED-orange?style=for-the-badge&logo=telegram&logoColor=orange&color=111" alt="Telegram" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/USERNAME-KAMU">
+        <img src="https://img.shields.io/badge/GITHUB-ONLINE-orange?style=for-the-badge&logo=github&logoColor=orange&color=111" alt="GitHub" />
+      </a>
     </td>
   </tr>
 </table>
 
----
-
-### ⚡ Tech Stack & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,git,github,vscode,figma,postman" />
-</div>
-
----
-
-### 📊 GitHub Stats & Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
----
-
-### 🎧 What I'm Listening To / Current Vibe
-<p align="center">
-  <img src="https://spotify-github-profile.adarsh26.me/api/v1?userid=ID_SPOTIFY_MU&theme=tokyo-night&background_color=0d1117" alt="Spotify Playing" />
-</p>
-*(Catatan: Bagian Spotify di atas opsional, kamu bisa hapus baris ini jika tidak punya akun Spotify)*
-
-<br>
-
-<div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
 </div>
